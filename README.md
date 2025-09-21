@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Dios-learning
-- 👀 I’m interested in ... Learning C, C++
-- 🌱 I’m currently learning ...Java, Ruby
-- 💞️ I’m looking to collaborate on ... Java
+- 👋 Hi, I’m @Dios_querer
 - 📫 How to reach me ... jpdiosquerer@gmail.com
 
 <!---
